@@ -1,6 +1,8 @@
 <p align="center"><img src="docs/media/lyrabanner.png" alt="Lyra"></p>
 
 ## What is Lyra?
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjdwelch%2Flyra.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjdwelch%2Flyra?ref=badge_shield)
+
 
 Lyra (“lee-ruh”) is an open source workflow engine for provisioning and managing cloud native infrastructure. Using infrastructure as code, Lyra enables you to declaratively provision and manage public cloud, private cloud, and any API-requested resources as well as orchestrate imperative actions upon them.
 
@@ -70,3 +72,7 @@ Here’s a proposed roadmap for the project. Given the infancy of the project, i
 
 ## Contributing
 We'd love to get contributions from you! For a quick guide, take a look at our guide to [contributing](CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjdwelch%2Flyra.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjdwelch%2Flyra?ref=badge_large)
